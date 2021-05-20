@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Yong Jie 
 - 👀 I’m interested in Data Analytics and Data Science
-- 🌱 I’m currently learning Java and R on respective courses CS2030 and ST3131 in NUS
+- 🌱 I’m currently learning machine learning on my own during the summer break.
 <!-- 💞️ I’m looking to collaborate on ---
 - 📫 How to reach me --- --->
 
